@@ -1,0 +1,55 @@
+body.modal-open {
+    overflow: hidden;
+}
+
+.varedit-pagewrap {
+	position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 10000;
+}
+
+.varedit-modal {
+	position: fixed;
+    top: 50px;
+    bottom: 50px;
+    left: 50px;
+    right: 50px;
+    z-index: 10001;
+}
+
+.varedit-nav {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding: 10px;
+	background-color: #fff;
+	z-index: 10002;
+}
+
+.varedit-nav label {
+	font-weight: 400;
+	cursor: pointer;
+}
+
+.varedit-nav input[type=checkbox] {
+	margin: 6px;
+}
+
+.varedit-buttons {
+	float: right;
+}
+
+.CodeMirror {
+	height: initial;
+	position: absolute;
+	top: 50px;
+	bottom: 53px;
+	left: 10px;
+	right: 10px;
+	border: 1px solid #ddd;
+}
