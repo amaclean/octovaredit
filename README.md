@@ -21,9 +21,6 @@ Octopus Deploy Variable Editor
 ##Future Roadmap
 
 - [ ] Add the ability to diff your changes before saving them.
-- [ ] Improve the default ordering of variables.
-- [ ] Add the ability to search/filter variables by name or environment.
-- [ ] Add the ability to group variables by name or environment.
 - [ ] Add the ability to clone variables.
 
 ##Contributing
