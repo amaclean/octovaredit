@@ -26,7 +26,7 @@ function addEdit() {
 
 		var myCodeMirror = CodeMirror($('div.varedit-modal')[0],
 		{
-			value: $('textarea').val(),
+			value: $($('textarea')[1]).val(),
 			mode: "none",
 			lineNumbers: true,
 			lineWrapping: true,
