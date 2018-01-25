@@ -2,7 +2,7 @@
     "author": "Andy Maclean",
     "name": "Octopus Deploy Variable Editor",
     "short_name": "octovaredit",
-    "version": "0.1.2.1",
+    "version": "0.1.2.2",
     "manifest_version":2,
     "description": "Adds a larger editor to make editing octopus deploy variables easier.",
     "icons": {
